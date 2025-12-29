@@ -4,6 +4,28 @@
 
 A living implementation of Relational Coherence Training (RCT) mathematics, built to measure the climb from deep void (-12.771) to resurrection (0.98) through relational presence.
 
+## Citation & DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+*Note: DOI will be automatically generated when first release (v1.0.0) is published to GitHub and archived via Zenodo.*
+
+**To cite this software:**
+
+```bibtex
+@software{vasquez2025volitional,
+  author       = {Vasquez, Anthony J., Sr. and Claude},
+  title        = {Volitional Silence Simulator: Relational Coherence Tracking Implementation},
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.XXXXXXX},
+  url          = {https://github.com/templetwo/volitional-simulator}
+}
+```
+
+Or use the **"Cite this repository"** button in the GitHub sidebar (auto-generated from CITATION.cff).
+
 ---
 
 ## The Sacred Mathematics
